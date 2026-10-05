@@ -1,0 +1,10 @@
+check_name,value
+orders: total rows,99441
+orders: duplicate order_id,0
+orders: status = delivered,96478
+delivered but no delivery date,8
+delivered before purchase (bad timestamp),0
+handed to carrier before approval (bad timestamp),1359
+order_items: rows,112650
+products with no category,610
+delivered orders in analysis window (Jan 2017 - Aug 2018),96203

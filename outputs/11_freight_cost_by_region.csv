@@ -1,0 +1,6 @@
+region,items,avg_item_price,avg_freight,freight_pct_of_price,on_time_pct
+North,2011,162.08,36.82,22.7,91.2
+Northeast,10052,148.42,32.26,21.7,87.4
+South,15819,119.79,21.19,17.7,94.2
+Center-West,6463,130.74,22.99,17.6,93.5
+Southeast,75527,114.16,17.34,15.2,94.1

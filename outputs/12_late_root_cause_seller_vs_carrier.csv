@@ -1,0 +1,5 @@
+outcome,orders,pct_of_orders
+Late - seller handed off late,1811,1.9
+"Late - seller on time, transit missed",4719,4.9
+On time,82891,86.2
+On time despite late seller handoff,6781,7.0
